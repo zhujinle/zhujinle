@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhujinle
 - 👀 I’m interested in Hackintosh =-=
-- 🌱 I’m currently preparing Chinese-College-Entrance-Examination
-- 💞️ I’m looking to collaborate on ...
+- 🌱 理论上这里应该写“微信公众号：xxxxx”......可是我没有微信公众号啊
+- 💞️ I’m looking to collaborate on ...Nothing
 - 📫 How to reach me Mail:(base64)emh1amlubGVAZm94bWFpbC5jb20= Wechat:ZDU0MTIx==
 - ---
 [![zhujinle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhujinle)](https://github.com/anuraghazra/github-readme-stats)
