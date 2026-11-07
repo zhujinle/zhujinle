@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...Nothing
 - 📫 How to reach me Mail:(base64)emh1amlubGVAZm94bWFpbC5jb20=
 - ---
-[![zhujinle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhujinle)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujinle&layout=compact&hide=asl)](https://github.com/anuraghazra/github-readme-stats)
+[![zhujinle's GitHub stats](https://github-stats-extended.vercel.app/api?username=zhujinle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zhujinle&layout=compact&hide=asl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhujinle)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=zhujinle)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
